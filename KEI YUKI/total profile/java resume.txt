@@ -1,0 +1,377 @@
+I'm Yamamoto Kenta having experience in Java8+, J2EE, JPA, RxJava, Spring, Microservice with Spring Boot, Mybatis, Hibernate, Struts.
+
+I having 6+ years of experience as a Java Software Engineer.
+Having experience in project analysis, database design, web development, application development.
+
+I have strong idea about the deployment process and tools like Maven, Jenkins, AWS.
+
+Key Skills:
+- Core Java - Advanced Java - Servlet/JSP
+- Spring MVC - Spring Boot - Spring Security
+- Oracle - PostgreSQL - Neo4J
+- REST Service - SOAP Service
+- Tomcat - Nginx
+- Testing - JUnit 4 - JUnit 5 - Mockito
+- Angular & React for Frontend
+- AWS - Jenkins - bitbucket
+---------------------------------
+
+I have over 5+ years experience working with J2EE and other technologies, the skills I have been through the project include:
+*** JAVA : J2EE, JAX-RS&WS, EJB 3, JSF 2 , Primeface & Apache MyFaces ,Spring frameworks, Hibernate, Struts 1.x&2.x , GWT and SmartGWT , Liferay Portal, Oracle ADF Framework ,Oracle WebCenter Portal, JCS - Java Caching System & Ehcache ....
+
+*** Database : Mysql , Oracle, PostgreSQL , MongoDB
+
+*** OS : window , Linux ( Fedora , CentOs , Oracle Linux)
+-----------------------------
+
+I'm a full-stack developer with having over 8+ years of experience in Java technologies.
+
+Good hands-on design, development, implementation, support, and optimization of the application. Use Object-oriented techniques and software engineering best practices including design review, code review, and code re-factoring.
+
+Experienced with the full software development life cycle (SDLC) including requirement gathering, prototyping, debugging, testing, and deployment of the web application.
+
+Good experience in agile software development methodologies (scrum. Sprint plan, Timeline, etc.).
+
+The strong idea about the deployment process and tools like Maven, Jenkins, AWS.
+
+Participate in the gathering and reviewing of business requirements and translate into functional or technical specifications.
+
+Strong development experience in designing highly scalable, high performing with extremely high transaction and storage requirement systems.
+
+What will I do for you?
+- Build Java Web Applications
+- Work with Frontend Technologies – Angular/AngularJS, JQuery, JavaScript
+- Upgrade legacy web applications with Responsive Design.
+- Configure with Database – (MySQL, PostgreSQL, MongoDB)
+- Build Rest Web API for mobile applications
+- Providing security for your web applications
+- Build web application with social login – Facebook, Google, Twitter, LinkedIn, Instagram
+- Export reports on PDF, Excel and Word on daily/weekly/monthly/yearly basis.
+- Fix the bug for your current application
+
+--------------------------------------------------------------------------------
+Technology Stack:
+- Java
+- Spring MVC
+- Spring Boot
+- Angular
+- Hibernate
+- BootStrap
+
+--------------------------------------------------------------------------------
+- Development time can be adjusted
+- 100% Quality work
+- Delivery at a given time.
+- Free support after the finished project.
+
+
+--------------------------------------------
+
+
+Are you looking for an Expert Full-Stack Developer with a vast skill set including Java, Spring, Angular, JavaScript, TypeScript, HTML, and CSS?
+
+You’ve just come to the profile of a reliable and determined developer who can guarantee:
+
+✅ one-stop solutions for all your application needs
+✅ Application with enriched UI and equally efficient code.
+✅ cares about high-quality work
+
+I believe in constant learning and achieving something new every day as I work. 🔥
+I am also adept in project management, working with steep deadlines, and maintaining good communication.
+
+🚀Technologies and tools I use:
+• Angular
+• Java 1.8+ and Spring Boot/Hibernate/Maven
+• ActiveMQ, Kafka
+• JavaScript (including modern ES6+)
+• TypeScript
+• HTML5 / CSS3 / SCSS / Styled Components
+• Mongo / MySQL / PostgreSQL
+• Amazon Web Services (EC2 / RDS / Cognito / DynamoDB / GraphQL / Lambda / S3 / Route 53)
+• Git version control
+
+Do contact me to discuss your project, and I can assure you that you won't regret the time spent discussing your project with me. You can expect a professional attitude with 5-8 hours of daily working ability and optimal solutions for your project
+
+Years of IT Experience and with professional experience in design, development and implementation of applications.
+Experience in domain of ERP, Ecommerce and Real Time Applications
+Hands on experience on Google Android Platform.
+Experience in Java, AngularJS and Angular 2+.
+Working experience with Spring Boot platform as well.
+Experienced in client relations, providing end user training and innovative technical solutions and conducting
+software demonstrations.
+Strong communication, interpersonal and time management skills with good work ethics.
+
+
+---------------------------------
+You will get a well-designed and maintainable backend source code. with over four years of experience working on the software development business, I’m Passionate about Microservice architectures, Hexagonal architecture, Event Driven architecture, Event Sourcing and Domain Driven design (DDD)…
+Huge fan of Clean Code school, SOLID, GRASP principles, Design Patterns, TDD and BDD.
+
+✅ TOP RATED Freelancer on upWork, specializing in SAP Hybris Commerce, Java, Spring & Angular
+
+✔ SAP Hybris Commerce
+✔ Java EE
+✔ Spring
+✔ Angular
+
+Hey , my name is Brahim,
+
+I'm an enthusiastic software developer with over 5 years of experience working on Java/Spring/SAP Hybris Commerce/Angular projects.
+
+I have worked with high profile clients in different fields :
+✅ luxury
+✅Construction
+✅Aviation
+✅Sport
+✅Pharmacy
+
+In the past two years , i have been working on many SAP Commerce Hybris projects and being involved in different phases :
+
+✔ Checkout process (order & cotation)
+✔ Order Process
+✔ Data Import/export Jobs
+✔ Reporting (Jasper report)
+✔ Mails process
+✔ Payment Providers integration
+✔ PIM and backoffice configuration
+✔ Hot folder
+✔ SOLR indexation
+✔ WCMS developpement
+✔ Data Model implementation
+✔ JUnit Tests
+
+I was also in charge of :
+✔ Writing technical documentation
+✔ Conception of new features
+✔ Managing the team and leading agile processes
+✔ Code review
+✔ working on new features and bugFixe
+
+My goal is to deliver very high quality work on time .
+
+Please don't hesitate to reach out to me with any questions or concerns. I will be happy to get in touch with you
+
+--------------------------------
+I have Have good knowledge in Java EE and Java Programming and Working on many projects which use this technology.
+
+
+Started package
+Single JSF or JSP Page
+Single ManagedBean Class
+Small Application
+Standard Package
+Medium Java Web Dynamic App
+5 to 8 JavaServer Faces (JSF or Primeface)
+Database
+CRUD Operations(Create Data, Read Data, Update Data, Delete Data)
+Bootstrap
+jQuery
+Hibernate or JPA
+Premium Package
+Larger J2EE Web Application
+Custom Designed Database
+EJB
+Documentation
+Source Code
+Include all feature of the Standard Package
+Publish and Deliver to the online hosting server.
+
+-----------------------------------
+
+You will get the API or Microservices done that is completely written in java.
+It will be built on latest programming standard.
+At granular level it will be following :
+OOPS principles,
+collections API,
+lambda expression,
+latest feature of Java 8 and forthcoming version.
+Springboot
+JPA
+Springsecurity,
+Oauth
+and
+Gateway.
+LoadBalancing
+
+Services will follow the non functional requirements like
+Scalability
+Reliability
+Maintainability
+Serviceability
+Utility
+Security
+Manageability
+Data integrity
+Availability
+Usability
+Environmental
+with 5+ years
+
+Hi,There
+I would say that I'm the one of the most reliable freelancers in the software development market.
+
+You now have many questions that need to be solved:
+
+1. Whom to entrust the construction (repair,enhancement) of your backend ?
+2. How to choose from 1000 freelancers the one that will do everything efficiently, on time and for reasonable money?
+...
+I would say, stop worrying. You are already in safe hands and all risks are minimized.
+
+✔ Java
+✔ Collections
+✔ Spring Boot
+✔ Spring Framework
+✔ Spring MVC
+✔ Spring Security
+✔ Spring Cloud
+✔ Spring-JPA
+✔ Microservices with Spring Boot
+✔ JSON
+✔ JSON Web Token (JWT) Authentication
+✔ Spring scheduler
+✔ Spring Data JPA
+✔ Hibernate
+✔ Lombok
+✔ JSP
+✔ Servlet
+✔ JDBC template
+✔ Documentation
+✔ Logging :Log4j,Log4j2
+✔AWS Cognito
+
+Design Pattern
+✔ Data Transfer Object (DTO)
+
+Build Tool
+✔ Maven
+
+Web Services
+✔ Spring Rest API Web Services
+✔ Java API for RESTful Web Services (JAX-RS)
+✔ Java API for XML-Based Web Services (JAX-WS)
+
+Database (SQL and NoSQL Database)
+✔ MySQL
+✔ Elastic Search
+
+Scripting Languages
+✔ HTML
+✔ JSTL
+✔ Java Script
+✔ JQuery
+✔ CSS
+
+Web Server
+✔ Tomcat
+
+Version Management Tools
+✔ GitHub
+✔ Github Desktop
+
+Development IDE and Text Editors
+✔ Eclipse
+✔ Visual Studio Code
+✔ Sublime Text
+✔ Notepad ++
+
+Familiar with following tools
+✔ Postman
+
+Technical Tutor / Mentor / Teacher
+✔ Teach Java
+✔ Teach Spring Framework
+✔ Teach Spring Boot
+✔ Teach existing project if you have.
+
+👍🏼 Good knowledge on Algorithm, Data Structure, RDBMS and Operating system
+👍🏼 Available full time on Upwork for any kind of services or consultancy.
+👍🏼 Proficient in Quality code and committed for on-time delivery.
+
+My motive is to help customers to achieve their business objectives by providing innovative, best-in class IT solutions and services, which correspond to client's requirements for 100% or bit more.
+
+Highly innovative software engineering student with a bachelor’s degree in computer science. Focused and dedicated with a desire to gain a strong technical foundation. Seeking for an opportunity to work in a challenging and growing environment and utilize my skill and abilities in Java Development for organizational and personal growth.
+
+If that's what you need message me.
+Kind Regards:
+-----------------------------------------------
+A fully-fledged RESTful API with enterprise standards using Java Spring Boot.
+
+- Authentication (Basic or JWT Token based )
+- Layered Architecture
+- Hibernate ORM on top of Spring Data JPA
+- Configure with Database – (MySQL, PostgreSQL, MongoDB etc)
+- Secured with Spring Security
+
+Suitable for
+- Web frontends
+- Mobile applications
+
+--------------------------------------------------------------------------------
+- 100% guaranteed quality
+- Delivery at a given time.
+- Support after delivery
+
+Hello 👋 I'm a Senior full stack engineer specialized in Spring Boot and Angular with over 7 years of professional experience in developing highly available, mission-critical web applications.
+
+ 1️⃣ REST APIs (with 𝐒𝐏𝐑𝐈𝐍𝐆 𝐁𝐎𝐎𝐓)
+ 2️⃣ Responsive web frontends (with 𝐀𝐍𝐆𝐔𝐋𝐀𝐑)
+ 3️⃣ Pixel-perfect UI development
+ 4️⃣ Performance and Scalability enhancements
+ 5️⃣ Enterprise software development (ERP, SCP, CRM etc)
+
+💡 Consecutive 5 star ratings and 100% satisfied clients in Upwork.
+
+
+📣 Why, what is so special about me?
+➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+🅰️ I have a 𝐒𝐄𝐑𝐈𝐎𝐔𝐒 𝐓𝐄𝐂𝐇𝐍𝐈𝐂𝐀𝐋 𝐄𝐗𝐏𝐄𝐑𝐓𝐈𝐒𝐄 in Java and JavaScript technologies which helps me to deliver exceptional results.
+
+Proficient in all aspects of Angular & Spring Boot frameworks and always producing clean and efficient code by following the latest industrial coding standards and engineering best practices.
+
+ ✔️ Write reusable components and modules for future use.
+ ✔️ Maintain perfect code quality with proper indentation, comments and using linters.
+ ✔️ Optimization for maximum performance.
+ ✔️ Improve architecture to support application scalability.
+ ✔️ Write unit and functional tests to support continuous integration.
+
+🅱️ I'm strongly 𝐀𝐓𝐓𝐄𝐍𝐓𝐈𝐕𝐄 𝐓𝐎 𝐃𝐄𝐓𝐀𝐈𝐋 and possess a strong emphasis on quality, efficiency and user friendliness of the application.
+
+If you are looking for not just a developer, but an allround capable person with a plan, vision and top notch communication, and expect 𝟏𝟎𝟎% 𝐂𝐎𝐌𝐌𝐈𝐓𝐌𝐄𝐍𝐓 to the project throughout the engagement, then I should be a perfect fit for you.
+
+
+How I'm different from other web developers
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+🔦 I have 𝐈𝐍-𝐃𝐄𝐏𝐓𝐇 𝐊𝐍𝐎𝐖𝐋𝐄𝐃𝐆𝐄 and practical experience in all the basics to advanced concepts in web development, particularly with Angular and Spring frameworks. Not only technical knowledge, but also have all the necessary functional knowledge in Enterprise Software development including ERP system, Supply chain management, CRM and HRM.
+
+🔦 I'm doing 𝐔𝐍𝐈𝐓 𝐀𝐍𝐃 𝐄𝟐𝐄 𝐓𝐄𝐒𝐓𝐈𝐍𝐆, as a part of my development process, which I believe is necessary to avoid future errors in large complicated systems.
+
+🔦 Furthermore, I have great skills in 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐓𝐑𝐎𝐋𝐋𝐈𝐍𝐆, agile project management, cloud storage tools and devops.
+ ◾ Git branching, merge and rebase
+ ◾ Bitbucket, Github, Azure devops
+ ◾ JIRA, Trello
+ ◾ CI/CD pipelines
+ ◾ AWS, Heroku, Digital ocean
+
+And most importantly, I'm a honest and friendly person with good attitude of doing my 100% for the product that I'm working with, and 𝐂𝐋𝐈𝐄𝐍𝐓 𝐒𝐀𝐓𝐈𝐒𝐅𝐀𝐂𝐓𝐈𝐎𝐍 is my utmost motivation.
+
+
+How I will help to shine your product?
+➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+🅰️ I will 𝐓𝐀𝐊𝐄 𝐓𝐇𝐄 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐈𝐁𝐈𝐋𝐈𝐓𝐘 of the project and tasks, and will make 100% commitment throughout the engagement. I will ensure my work is up to the industrial standards and in accordance with the best practices. And will make sure to deliver work within agreed deadlines.
+
+🅱️ I will help you (and your project team, if any) by various other ways like taking an active role on defining how the application looks as well as how it works, taking the initiative to suggest new ideas and improvements to the project, and reviewing others code to ensure high standard bug free code etc.
+
+🔦 For your quick reference, here's the summary of the technologies that I have mastered.
+
+✅ Java | Spring Boot | Spring Security | Spring Data JPA | Hibernate
+✅ TypeScript | Angular  | Angular Material | RxJs | NgRx
+✅ JavaScript | NodeJs | Express
+✅ CSS | CSS 3 | SCSS | LESS | HTML | HTML 5 | Bootstrap | JQuery | JQuery UI
+✅ Jasmine | Karma | Protractor | JUnit | TestNG
+✅ Maven | Npm | webpack | gulp | Git | AWS
+
+If you are looking for an industry expert to construct your web application for a very reasonable price, please do send me an invitation.
+
+
